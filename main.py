@@ -1,1 +1,1 @@
-print("Always look on the bright side of life")
+print("Holy grenade manual")
